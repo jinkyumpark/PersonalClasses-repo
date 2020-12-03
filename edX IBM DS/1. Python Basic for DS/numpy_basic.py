@@ -32,3 +32,9 @@ y0 = np.sin(x0)
 
 plt.plot(x0, y0)
 plt.show()
+
+a = [[11, 12, 13], [21, 22, 23], [31, 32, 33]]
+A = np.array(a)
+A.ndim #2
+A.shape #(3, 3)
+A.size #9 totoal num of element
