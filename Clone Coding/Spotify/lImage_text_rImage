@@ -1,0 +1,29 @@
+//
+//  lImage_text_rImage.swift
+//  SpotifyClone
+//
+//  Created by Jin Park on 12/29/20.
+//
+import SwiftUI
+
+struct lImage_text_rImage: View {
+    var body: some View {
+        HStack{
+            Image(systemName: "timelapse").padding(.trailing, 10)
+            Text("Title")
+            
+            Spacer()
+            
+            Image(systemName: "ellipsis")
+        }
+            .padding(15)
+            .background(Color.black)
+            .foregroundColor(.white)
+    }
+}
+
+struct lImage_text_rImage_Previews: PreviewProvider {
+    static var previews: some View {
+        lImage_text_rImage()
+    }
+}
