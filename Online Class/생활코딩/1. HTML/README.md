@@ -1,8 +1,12 @@
-# HTML Tags
+# HTML Tags; Attribute
 
 - strong - bold
 - u - underline
 - h(1-6) - headings
+- br - new line
+- p - paragraph
+- img - image; src, width
+
 
 ## Statistics
 - html
