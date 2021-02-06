@@ -39,3 +39,10 @@
 - button
 - strong
 - i
+
+# Structure of HTML
+
+- DOCTYPE html
+- html
+- head
+- body
