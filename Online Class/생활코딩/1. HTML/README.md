@@ -6,7 +6,9 @@
 - br - new line
 - p - paragraph
 - img - image; src, width
-
+- li - list
+- ul - unordered list, parent of li
+- ol - ordered list
 
 ## Statistics
 - html
