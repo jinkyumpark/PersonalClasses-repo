@@ -1,4 +1,4 @@
 # HTML Tags
 
-- <strong> = bold
-- <u> = underline
+- <strong = bold
+- <u = underline
