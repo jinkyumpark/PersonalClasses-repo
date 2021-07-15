@@ -7,3 +7,9 @@
 5. Modifying program State
 6. Binding State to User Interfact Controls
 7. Cretaing Views in a Loop
+
+# Three Stages of Project Introduction
+
+1. Introduction to all the techniques you'll be learning
+2. A step-by-step guide to build the project
+3. Challenges for you to complete on your own
